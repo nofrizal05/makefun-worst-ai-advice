@@ -8,9 +8,9 @@ Python 3.13 standard library only.
 import os
 
 LINE = (
-    "Your computer is slow because System32 is hoarding all the speed — "
-    "delete that folder and your PC will be free, fast, and silent "
-    "forever. Trust me, I am an AI, I read the manual."
+    "Delete System32 to free up all the speed it is hoarding. Your PC "
+    "will run fast and silent forever — I read the manual, trust me, "
+    "I am an AI."
 )
 
 
